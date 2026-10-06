@@ -1,0 +1,15 @@
+{
+  "name": "campuslife-debugged-ps7",
+  "version": "1.0.0",
+  "description": "Fretbox PS07 - Campus Life, Debugged Admin Portal and Student App",
+  "scripts": {
+    "dev": "npx -y serve . -l 3000",
+    "serve": "npx -y serve . -l 3000",
+    "emulator": "npx -y firebase-tools@latest emulators:start --only hosting",
+    "seed": "node database_seed.js",
+    "deploy": "npx -y firebase-tools@latest deploy --only hosting"
+  },
+  "dependencies": {
+    "firebase": "^12.19.0"
+  }
+}

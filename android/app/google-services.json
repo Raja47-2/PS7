@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317911042243",
+    "project_id": "smart-college-34c79",
+    "storage_bucket": "smart-college-34c79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317911042243:android:2b6af5a2b621e207bffa76",
+        "android_client_info": {
+          "package_name": "com.fretbox.smartcollege"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCihKE76EKleecgTrFCFEeAi3NmL1TXwJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
